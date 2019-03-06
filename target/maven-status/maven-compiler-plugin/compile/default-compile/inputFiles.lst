@@ -1,6 +1,9 @@
 /home/user/Documents/applications/crud/src/main/java/com/example/crud/config/SwaggerConfig.java
+/home/user/Documents/applications/crud/src/main/java/com/example/crud/config/WebSecurityConfig.java
 /home/user/Documents/applications/crud/src/main/java/com/example/crud/model/Developer.java
 /home/user/Documents/applications/crud/src/main/java/com/example/crud/CrudApplication.java
 /home/user/Documents/applications/crud/src/main/java/com/example/crud/repo/DeveloperRepo.java
+/home/user/Documents/applications/crud/src/main/java/com/example/crud/config/MyAccessDeniedHandler.java
 /home/user/Documents/applications/crud/src/main/java/com/example/crud/controller/TestController.java
+/home/user/Documents/applications/crud/src/main/java/com/example/crud/config/CORSFilter.java
 /home/user/Documents/applications/crud/src/main/java/com/example/crud/controller/DevController.java
