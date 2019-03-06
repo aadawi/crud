@@ -19,7 +19,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
 
-        System.out.println("asdfasdfasdf");
+        http.headers().frameOptions().disable();
         http.authorizeRequests().anyRequest().permitAll().and().csrf().disable().cors().disable();
     }
 
